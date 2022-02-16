@@ -417,7 +417,7 @@
                     <div class="col-lg-3 col-md-6 footer-info">
 
                         <img src="img/logocis.png" alt="TheEvenet">
-                        <img src="img/logo.png" alt="TheEvenet">
+                        <img src="img/Logo.png" alt="TheEvenet">
                     </div>
 
 
